@@ -1,6 +1,4 @@
 
-# Open a new README.md file and write the content to it
-readme_content = """
 # Black Friday Dataset: Exploratory Data Analysis (EDA) and Feature Engineering
 
 This project delves into **Exploratory Data Analysis (EDA)** and **Feature Engineering** on the Black Friday dataset. As part of my learning journey, I applied fundamental data science techniques, focusing on data cleaning, gaining insights, and preparing the dataset for machine learning model development.
